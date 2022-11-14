@@ -4,7 +4,7 @@
 The goal of this project was to create an application that allows a developer to easily create a README file for their own projects. This was accomplished with the use of the Inquirer npm and the 'fs' node module. In developing this application, I learned how to implement NPMs and node modules.
 
 ## Installation
-View this video to see how to run this application: 
+View this video to see how to run this application: https://www.youtube.com/watch?v=aMLUU7QDtt4
 
 ## Usage
 To use this application, run the file in the command line. You will be prompted with several questions about your project. After answering all of the questions and selecting you license, your file will be created under the name 'my-README.md' where you can see your project information in it's respective location. If you selected a badge for your project, you will see a corresponding badge near the top of your readme as well as a link to the license in the 'License' section. Clicking the section names in the table of contents will take you to those sections.
